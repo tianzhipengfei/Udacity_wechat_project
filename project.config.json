@@ -9,7 +9,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "1.9.93",
-	"appid": "wxc362409c6d373bb0",
+	"appid": "touristappid",
 	"projectname": "weather",
 	"condition": {
 		"search": {
